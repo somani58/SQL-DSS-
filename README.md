@@ -102,7 +102,7 @@ END
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sql-case-studies.git
+   git clone https://github.com/somani58/SQL-Case-Studies-Customer-Product-Order-Analytics.git
    ```
 
 2. Open your SQL environment (MySQL / PostgreSQL / SQL Server)
